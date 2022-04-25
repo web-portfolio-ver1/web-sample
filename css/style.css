@@ -471,7 +471,8 @@ img {
   }
 
   .works-list {
-    justify-content: space-between;
+    display: block;
+    marigin: 0 auto;
   }
 
   .works-item {
